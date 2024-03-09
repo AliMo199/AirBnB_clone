@@ -7,6 +7,7 @@
 * [0x03 Installation](#0x03-Installation)
 * [0x04 Testing](#0x04-Testing)
 * [0x05 Usage](#0x05-Usage)
+* [0x06 Authors](#0x06-Authors)
 
 ## 0x01 Introduction
 
@@ -251,3 +252,14 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 > *Updates an instance based on the class name, id, and kwargs passed.*
 > *Update the file.json*
 ```
+## Authors
+<details>
+    <summary>Ali Elgamal</summary>
+    <summary>Ali Reda</summary>
+    <ul>
+    <li><a href="https://www.github.com/AliMo199">Github</a></li>
+    <li><a href="mailto:alimelgamal199@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Allollo21">Github</a></li>
+    <li><a href="mailto:aliredaer7@gmail.com">e-mail</a></li>
+    </ul>
+</details>
