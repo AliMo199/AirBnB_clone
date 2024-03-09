@@ -1,0 +1,4 @@
+# These individuals contributed to hbnb project in this repository 
+
+Ali Elgamal <alimelgamal199@gmail.com>
+Ali Reda <aliredaer7@gmail.com>
